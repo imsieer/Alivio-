@@ -61,7 +61,7 @@ a{
 /* main */
 
 .main{
-    background: url("../img/BG\ \(1\).png") no-repeat center center / cover;
+    background: url("../img/photo_4_2024-09-06_01-14-13.jpg") no-repeat center center / cover;
     height: 90vh;
     padding: 170px;
 }
@@ -138,3 +138,37 @@ a{
 .steps__pic img{
     border-radius: 12px;
 }
+
+.story{
+    background-color: #245852;
+    padding: 229px 0px 177px;
+}
+.story__wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.story__info{
+    max-width: 580px;
+    margin-right: 30px;
+}
+
+.story__title {
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 5px;
+}
+.story__subtitle{
+        color: #ffffff;
+        font-weight: 600;
+        font-size: 25px;
+        margin-top: 33px;
+        margin-bottom: 57px;
+    }
+    .story__btn {
+        display: flex;
+        align-items: center;
+    }
+
+    
